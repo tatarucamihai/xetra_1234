@@ -9,6 +9,9 @@ pandas = "*"
 awscli = "*"
 jupyter = "*"
 boto3 = "*"
+pyyaml = "*"
+pylint = "*"
+moto = "*"
 
 [dev-packages]
 
